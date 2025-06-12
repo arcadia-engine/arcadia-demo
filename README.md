@@ -1,11 +1,19 @@
 # Arcadia Demo World
 
-A small, complete game experience built with Arcadia Engine.
+🌍 A complete, small-scale MMO-style zone built using Arcadia Engine.
 
 Includes:
-- Starting area with NPCs, shops, quests
-- Combat, loot, leveling
-- Sample lore and visual style
-- Runs on `arcadia-core`, `arcadia-client`, and `arcadia-server`
+- Starting area (village, forest)
+- NPCs with dialogue and quests
+- Mob combat and loot
+- Inventory + leveling system
+- Embedded lore and art direction
 
-This repo serves as a live showcase for recruiters and developers.
+Perfect for testing engine modules and showcasing system features.
+
+---
+
+## 🔗 Powered By
+- [`arcadia-core`](https://github.com/arcadia-engine/arcadia-core)
+- [`arcadia-client`](https://github.com/arcadia-engine/arcadia-client)
+- [`arcadia-server`](https://github.com/arcadia-engine/arcadia-server)
